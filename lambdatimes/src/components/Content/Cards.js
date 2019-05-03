@@ -22,7 +22,7 @@ Cards.propTypes = {
   ).isRequired
 }
 
-PostContainer.defaultProps = {
+Cards.defaultProps = {
   post: [],
 };
 
